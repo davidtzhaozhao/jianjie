@@ -4,12 +4,22 @@
 
 
 
+
 #msg-box8-0 .mbr-section-title,
 #msg-box8-0 p {
   color: #fff;
 }
+#msg-box8-0 .lead P {
+  text-align: left;
+  color: #ffffff;
+}
 #features1-0 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
+}
+#features1-0 H5 {
+  font-size: 15px;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #content5-0 .mbr-section-title,
 #content5-0 p {
@@ -18,4 +28,7 @@
 #msg-box8-1 .mbr-section-title,
 #msg-box8-1 p {
   color: #fff;
+}
+#contacts1-0 P {
+  text-align: left;
 }
